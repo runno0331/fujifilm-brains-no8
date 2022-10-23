@@ -1,0 +1,13 @@
+{
+	"emsize": 96,
+	"d_hid": 100,
+	"nlayers": 4,
+	"nhead": 8,
+	"dropout": 0.0,
+	"linear_dropout": 0.0,
+	"batch_size": 256,
+	"max_wait": 8,
+	"lr": 1e-3,
+	"weight_decay": 0.95,
+	"nmodels": 5
+}
